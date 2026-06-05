@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "git-json"
-version = "1.0.1"
+version = "1.0.2"
 description = "Generate comprehensive git information for your projects"
 authors = ["Christoph Spörk <christoph.spoerk@gmail.com>"]
 readme = "README.md"
